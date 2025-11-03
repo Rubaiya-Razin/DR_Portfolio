@@ -56,7 +56,7 @@ const testimonials=ref([
         id:1,
         fullName:'Patient 1',
         image:'src/assets/patient.png',
-        comment:'Dr. Chandra Shekhar Karmakar is truly an expert in pain management. His treatment significantly reduced my chronic back pain, and I can finally enjoy daily activities again. Highly recommended! – R.r Bushra'
+        comment:'Dr. Chandra Shekhar Karmakar is truly an expert in pain management. His treatment significantly reduced my chronic back pain, and I can finally enjoy daily activities again. Highly recommended! – Razin'
     },
     {
         id:2,
